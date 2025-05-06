@@ -1,0 +1,19 @@
+# Unity
+[Ll]ibrary/
+[Ll]ogs/
+[Tt]emp/
+[Tt]arget/
+[Aa]ssets/AssetStoreTools*
+Build/
+Builds/
+UserSettings/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Mac
+.DS_Store
+
+# VSCode
+.vscode/
